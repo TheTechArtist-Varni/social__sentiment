@@ -1,4 +1,4 @@
-import tkinter as tk
+```python  import  tkinter as tk
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import matplotlib.pyplot as plt
 
@@ -99,3 +99,4 @@ show_chart_button = tk.Button(
 show_chart_button.pack(pady=10)
 
 window.mainloop()
+``` 
