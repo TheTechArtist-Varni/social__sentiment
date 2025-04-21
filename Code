@@ -1,4 +1,4 @@
-```python  import  tkinter as tk
+```  import  tkinter as tk
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import matplotlib.pyplot as plt
 
